@@ -1,0 +1,2 @@
+# factorial
+factorial in python 
